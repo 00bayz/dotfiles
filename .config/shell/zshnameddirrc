@@ -1,0 +1,12 @@
+hash -d cac=/home/bayz/.cache 
+hash -d cf=/home/bayz/.config 
+hash -d D=/home/bayz/Downloads 
+hash -d d=/home/bayz/Documents 
+hash -d dt=/home/bayz/.local/share 
+hash -d h=/home/bayz 
+hash -d m=/home/bayz/Music 
+hash -d mn=/mnt 
+hash -d pp=/home/bayz/Pictures 
+hash -d sc=/home/bayz/.local/bin 
+hash -d src=/home/bayz/.local/src 
+hash -d vv=/home/bayz/Videos 
